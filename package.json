@@ -9,7 +9,7 @@
     "aos": "^2.3.4",
     "cra-template": "1.0.3",
     "devicon": "^2.2.0",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
